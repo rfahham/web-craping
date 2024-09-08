@@ -41,5 +41,6 @@ ScrapyMonitoramentoPreco/
 - [pandas](./docs/pandas.md)
 - [dashboard](./docs/dashboard.md)
 - [powerbi](./docs/powerbi.md)
+- [chomedriver](./docs/webdriver.md)
 
 Repositório: https://lvgalvao.github.io/ScrapyMonitoramentoPreco/
