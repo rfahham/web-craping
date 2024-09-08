@@ -24,6 +24,8 @@ scrapy startproject <nome do projeto>
 scrapy genspider mercadolivre https://lista.mercadolivre.com.br/tenis-corrida-masculino
 ```
 
+
+
 ## Terminal
 
 Alguns sites possuem bloqueios para WEB SCRAPING
@@ -107,6 +109,7 @@ len(products.css('span.ui-search-item__brand-discoverability.ui-search-item__gro
 
 ```bash
 products.css('span.ui-search-item__brand-discoverability.ui-search-item__group__element').get()
+
 '<span class="ui-search-item__brand-discoverability ui-search-item__group__element">MIZUNO</span>'
 ```
 
